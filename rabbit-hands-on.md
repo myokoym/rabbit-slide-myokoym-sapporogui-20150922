@@ -34,7 +34,7 @@ theme
 
 # マスコットキャラ
 
-![](https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png){:relative_height = 100}
+![](https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png){:relative_height='100'}
 
 # Rabbitの特徴
 
