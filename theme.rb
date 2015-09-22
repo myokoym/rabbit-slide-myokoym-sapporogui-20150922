@@ -1,4 +1,5 @@
-@slide_footer_info_left_text ||= canvas.title.gsub(/\n/, " ")
+# ???
+#@slide_footer_info_left_text ||= canvas.title.gsub(/\n/, " ")
 
 include_theme("nyankosakana")
 
