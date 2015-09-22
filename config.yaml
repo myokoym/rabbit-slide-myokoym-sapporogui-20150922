@@ -1,10 +1,12 @@
 ---
 id: sapporogui-20150922
 base_name: rabbit-hands-on
-tags: []
-presentation_date: 
-version: 1.0.0
-licenses: []
+tags:
+- rabbit
+presentation_date: 2015-09-22
+version: 2015.9.22.0
+licenses:
+- CC BY 4.0
 slideshare_id: 
 speaker_deck_id: 
 ustream_id: 
